@@ -1,4 +1,5 @@
 # mediaLab2
 
-Player works on Firefox 66.0.3
-Player works on Opera 60.0.3255.70
+
+    Player works on Opera 58.0.3135.132
+    Player works on Firefox 66.0.3
